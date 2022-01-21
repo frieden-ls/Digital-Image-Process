@@ -1,2 +1,2 @@
 # Digital-Image-Process
-基本函数、作业
+Nprmal function and homework
