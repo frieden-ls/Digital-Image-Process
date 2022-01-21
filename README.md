@@ -1,2 +1,3 @@
 # Digital-Image-Process
-Nprmal function and homework
+Normal function and homework.
+Basic on the subject of DIP(Digital Image Processing),Code
